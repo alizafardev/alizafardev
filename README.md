@@ -1,7 +1,7 @@
 ## Hi there, I'm Ali Zafar Zaidi (he/him) 👋
 
 I'm a Software Engineer with experience in JavaScript and Python.  
-I enjoy working across the stack and building scalable, user-focused web applications.  
+I enjoy working across the full stack and building scalable, user-focused web applications.  
 
 ---
 
