@@ -1,4 +1,4 @@
-## Hi there, I'm Ali Zafar Zaidi (he/him) 👋
+## Hi there, I'm Ali Zafar Zaidi 👋
 
 I'm a Software Engineer with experience in JavaScript and Python.  
 I enjoy working across the full stack and building scalable, user-focused web applications.  
