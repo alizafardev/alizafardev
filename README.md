@@ -14,6 +14,6 @@ I enjoy working across the full stack and building scalable, user-focused web ap
 ---
 
 ### 🌐 Connect with me
-[![Blog](https://img.shields.io/badge/Blog-📝-FF6F61?style=for-the-badge)](#) 
+[![Blog](https://img.shields.io/badge/Blog-📝-FF6F61?style=for-the-badge)](https://alizafarzaidi.medium.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zaidi-software-developer-ca/) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AlisZafar)
